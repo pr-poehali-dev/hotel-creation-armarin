@@ -65,7 +65,7 @@ const Index = () => {
             ArMarinHouse
           </h1>
           <p className="text-xl md:text-2xl mb-8 max-w-2xl mx-auto opacity-90">
-            Роскошная гостиница на берегу моря с незабываемым видом и высочайшим уровнем сервиса
+            Гостевой дом на берегу черного моря
           </p>
           <Dialog>
             <DialogTrigger asChild>
