@@ -55,7 +55,7 @@ const Index = () => {
       </nav>
 
       {/* Hero Section */}
-      <section id="hero" className="relative min-h-screen flex items-center justify-center text-white overflow-hidden" style={{backgroundImage: 'url(/img/16b27573-246c-4bf9-a6e4-8cdf97f47e47.jpg)', backgroundSize: 'cover', backgroundPosition: 'center'}}>
+      <section id="hero" className="relative min-h-screen flex items-center justify-center text-white overflow-hidden" style={{backgroundImage: 'url(https://cdn.poehali.dev/files/225f7e78-4cfb-4f26-b338-4eba6e9dd6bf.jpg)', backgroundSize: 'cover', backgroundPosition: 'center'}}>
         <div className="absolute inset-0 bg-black/40"></div>
         <div className="relative z-10 text-center px-4">
           <div className="mb-8">
